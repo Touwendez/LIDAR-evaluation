@@ -1,4 +1,4 @@
-# Rapport d'évaluation — Faster R-CNN ResNet-50 FPN LiDAR BEV
+# Rapport d'évaluation Faster R-CNN ResNet-50 FPN LiDAR BEV
 
 **Projet :** DriveSense / RADIATE  
 **Date :** Mai 2026  
